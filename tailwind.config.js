@@ -7,9 +7,12 @@ module.exports = {
     "./src/app/signup_email.{js,jsx,ts,tsx}",
     "./src/app/signup_num.{js,jsx,ts,tsx}",
     "./src/app/welcome.{js,jsx,ts,tsx}",
+    "./src/cart/**/*.{js,jsx,ts,tsx}",
+    "./src/menu/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
     extend: {},
   },
   plugins: [],
-}
+};
+
